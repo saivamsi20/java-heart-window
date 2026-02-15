@@ -15,7 +15,7 @@ public class HeartWindow extends JPanel {
         super.paintComponent(g);
 
         g.setFont(new Font("Consolas", Font.BOLD, 16));
-        g.setColor(Color.RED); // Purple color
+        g.setColor(Color.RED); 
 
         int startX = 50;
         int startY = 80;
